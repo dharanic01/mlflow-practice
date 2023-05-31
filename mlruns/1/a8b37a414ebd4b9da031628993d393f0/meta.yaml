@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/1/a8b37a414ebd4b9da031628993d393f0/artifacts
+end_time: 1685467289406
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a8b37a414ebd4b9da031628993d393f0
+run_name: exultant-bat-985
+run_uuid: a8b37a414ebd4b9da031628993d393f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685467285466
+status: 3
+tags: []
+user_id: dharani

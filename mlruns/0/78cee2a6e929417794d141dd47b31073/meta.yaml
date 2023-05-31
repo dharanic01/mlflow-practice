@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/78cee2a6e929417794d141dd47b31073/artifacts
+end_time: 1685468059998
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 78cee2a6e929417794d141dd47b31073
+run_name: ''
+run_uuid: 78cee2a6e929417794d141dd47b31073
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685467656258
+status: 3
+tags: []
+user_id: dharani
